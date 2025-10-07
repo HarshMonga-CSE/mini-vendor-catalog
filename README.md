@@ -1,6 +1,7 @@
 # Mini Vendor Catalog Manager
 
 Live frontend: https://mini-vendor-catalog-rho.vercel.app/
+
 Backend API base URL: https://mini-vendor-catalog-56xk.onrender.com/
 
 ## Project structure
